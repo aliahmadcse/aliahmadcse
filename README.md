@@ -1,7 +1,7 @@
 ## Hi there 👋, I am Ali!
 ### I am an Undergrad Student and currently developing with Laravel, Vue.js and MySql!
 
-👨🏼‍💻 currently maintaining [website][aliahmad.codes]  
+👨🏼‍💻 currently maintaining [aliahmad.codes][website]
 🧠 learning data visualization with [d3.js][d3.js]  
 💜 loving JavaScript, Vue.js, Laravel
 
@@ -9,7 +9,7 @@
 🐦 [twitter][twitter] **|** 
 👔 [linkedin][linkedin]
 
-[website]: aliahmad.codes
+[website]: https://aliahmad.codes/
 [d3.js]: https://d3js.org/
 [twitter]: https://twitter.com/AliAhmadCse
 [linkedin]: https://www.linkedin.com/in/aliahmaddev/
