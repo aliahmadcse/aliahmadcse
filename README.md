@@ -5,12 +5,14 @@
 ---
 
 👨🏼‍💻 currently maintaining [aliahmad.codes][website]
+
 🧠 learning typeScript [typescript][typescript]
+
 💜 loving JavaScript, Vue.js, Laravel
 
 🏡 [website][website] **|**
-👔 [linkedin][linkedin]
-🐦 [twitter][twitter] **|**
+👔 [linkedin][linkedin] **|**
+🐦 [twitter][twitter]
 
 [website]: https://aliahmad.codes/
 [typescript]: https://www.typescriptlang.org/
