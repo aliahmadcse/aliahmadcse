@@ -4,11 +4,11 @@
 
 ---
 
-👨🏼‍💻 currently maintaining [aliahmad.codes][website]
+👨🏼‍💻 Currently maintaining [aliahmad.codes][website]
 
-🧠 learning typeScript [typescript][typescript]
+🧠 Learning [TypeScript][typescript]
 
-💜 loving JavaScript, Vue.js, Laravel
+💜 Loving JavaScript, Vue.js, Laravel
 
 🏡 [website][website] **|**
 👔 [linkedin][linkedin] **|**
