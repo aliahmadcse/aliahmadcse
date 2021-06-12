@@ -1,8 +1,7 @@
 ## Hey there 👋, It's Ali Ahmad Here!
 
-### I am an Undergrad Student at [Uet Lahore](https://www.uet.edu.pk/) with majors in Computer Science
+### I am an Undergrad Student at [Uet Lahore](https://www.uet.edu.pk/) with majors in Computer Science && Junior Software Engineer At [Uworx][uworx].
 
----
 
 
 🧠 Working in React, Laravel, Node and Java (At Work 😉)
@@ -18,9 +17,9 @@
 🐦 [twitter][twitter]
 
 [website]: https://aliahmad.codes/
-[typescript]: https://www.typescriptlang.org/
 [linkedin]: https://www.linkedin.com/in/aliahmaddev/
 [twitter]: https://twitter.com/AliAhmadCse
+[uworx]: https://www.uworx.co.uk/
 
 <!--
 **aliahmadcse/aliahmadcse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
