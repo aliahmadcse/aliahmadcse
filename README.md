@@ -1,14 +1,17 @@
-## Hi there 👋, I am Ali Ahmad!
+## Hey there 👋, It's Ali Ahmad Here!
 
 ### I am an Undergrad Student at [Uet Lahore](https://www.uet.edu.pk/) with majors in Computer Science
 
 ---
 
-👨🏼‍💻 Currently maintaining [aliahmad.codes][website]
 
-🧠 Learning [TypeScript][typescript]
+🧠 Working in React, Laravel, Node and Java (At Work 😉)
 
-💜 Loving JavaScript, Vue.js, Laravel
+💜 Loving React and JavaScript
+
+---
+### 🙌 Lets Connect Here
+
 
 🏡 [website][website] **|**
 👔 [linkedin][linkedin] **|**
