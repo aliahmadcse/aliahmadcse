@@ -1,12 +1,12 @@
 ## Hey there 👋, It's Ali Ahmad Here!
 
-### I am an Undergrad Student at [Uet Lahore](https://www.uet.edu.pk/) with majors in Computer Science && Junior Software Engineer At [Uworx][uworx].
+### I am a full-stack web developer having a College Degree in Computer Science  Junior Software Engineer At [Uworx][uworx].
 
 
 
-🧠 Working in React, Laravel, Node and Java (At Work 😉)
+🧠 Working in Angular, Java, Spring Boot, Node and Python.
 
-💜 Loving React and JavaScript
+💜 Loving Angular and JavaScript
 
 ---
 ### 🙌 Lets Connect Here
