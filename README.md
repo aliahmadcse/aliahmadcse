@@ -1,7 +1,6 @@
 ## Hey there 👋, It's Ali Ahmad Here!
 
-### I am a full-stack web developer having a College Degree in Computer Science  Junior Software Engineer At [Uworx][uworx].
-
+### I am a full-stack web developer having a College Degree in Computer Science and working as a Jr. SE At [Uworx][uworx] in a product based agile team.
 
 
 🧠 Working in Angular, Java, Spring Boot, Node and Python.
