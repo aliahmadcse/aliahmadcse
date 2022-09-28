@@ -1,21 +1,21 @@
-<h1 align="center">Hi Earth👋, I'm Ali Ahmad</h1>
-<h3 align="center">A full Stack Web Engineer from Pakistan</h3>
+<h1 align="center">Hellow!👋 I'm Ali Ahmad</h1>
+<h3 align="center">A Software Engineer with a diverse range of Skill Set --> Angular, Spring Boot, Typescript, Java, ExpressJs, NodeJs, MongoDB, MySQL, Docker, Azure </h3>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=aliahmadcse&label=Profile%20views&color=0e75b6&style=flat" alt="aliahmadcse" /> </p> -->
 
 <p align="left"> <a href="https://twitter.com/aliahmaddev" target="blank"><img src="https://img.shields.io/twitter/follow/aliahmaddev?logo=twitter&style=for-the-badge" alt="aliahmaddev" /></a> </p>
 
-- 🔭 I’m currently working on [FreeCodeCamp Codebase](https://github.com/freeCodeCamp/freeCodeCamp)
+- 🔭 Exploring && Working on [FreeCodeCamp Codebase](https://github.com/freeCodeCamp/freeCodeCamp)
 
-- 🌱 I’m currently learning **Spring Boot Cloud Native Development**
+- 🌱 Learning **Architecting with Azure**
 
-- 👨‍💻 All of my projects are available at [github.com/aliahmadcse](github.com/aliahmadcse)
+- 👨‍💻 Check my side Hussle on [github.com/aliahmadcse](github.com/aliahmadcse)
 
-- 📝 I regularly write articles on [aliahmad.codes](aliahmad.codes)
+- 📝 Writing on [aliahmad.codes](aliahmad.codes)
 
-- 💬 Ask me about **Angular, Java, Docker**
+- 💬 Ask me about **Angular, Spring Boot, Docker**
 
-- 📫 How to reach me **aliahmadcse@gmail.com**
+- 📫 Reach me out --> **aliahmadcse@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
