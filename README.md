@@ -22,7 +22,15 @@
 
 - 📫 Reach me out --> **aliahmadcse@gmail.com**
 
-<h3 align="left">I am Always open to Valueable connection</h3>
+
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aliahmadcse&show_icons=true&locale=en&layout=compact" alt="aliahmadcse" /></p> -->
+---
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aliahmadcse&show_icons=true&locale=en" alt="aliahmadcse" /></p>
+
+<!-- <p>&nbsp;&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aliahmadcse&" alt="aliahmadcse" /></p> -->
+
+
+<h3 align="left">I'm Always open to Valueable Connections</h3>
 <p align="left">
 <a href="https://twitter.com/aliahmaddev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aliahmaddev" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/aliahmaddev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aliahmaddev" height="30" width="40" /></a>
@@ -30,9 +38,3 @@
 <a href="https://hashnode.com/@aliahmaddev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@aliahmaddev" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/aliahmadcse" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="aliahmadcse" height="30" width="40" /></a>
 </p>
-
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aliahmadcse&show_icons=true&locale=en&layout=compact" alt="aliahmadcse" /></p> -->
----
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aliahmadcse&show_icons=true&locale=en" alt="aliahmadcse" />&nbsp;&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aliahmadcse&" alt="aliahmadcse" /></p>
-
-<!-- <p></p> -->
