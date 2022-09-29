@@ -8,7 +8,8 @@
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=aliahmadcse&label=Profile%20views&color=0e75b6&style=flat" alt="aliahmadcse" /> </p>
 
 <p align="left"> <a href="https://twitter.com/aliahmaddev" target="blank"><img src="https://img.shields.io/twitter/follow/aliahmaddev?logo=twitter&style=for-the-badge" alt="aliahmaddev" /></a> </p> -->
----
+
+&nbsp;
 
 - 🔭 Exploring && Working on [FreeCodeCamp Codebase](https://github.com/freeCodeCamp/freeCodeCamp)
 
@@ -25,9 +26,16 @@
 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aliahmadcse&show_icons=true&locale=en&layout=compact" alt="aliahmadcse" /></p> -->
 ---
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aliahmadcse&show_icons=true&locale=en" alt="aliahmadcse" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aliahmadcse&show_icons=true&locale=en" alt="aliahmadcse" /></p> -->
 
 <!-- <p>&nbsp;&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aliahmadcse&" alt="aliahmadcse" /></p> -->
+
+
+<p align="center"> 
+ <img width="400px" src="https://github-readme-stats.vercel.app/api?username=aliahmadcse&theme=tokyonight&show_icons=true&count_private=true&hide_border=true" alt="Ali's Github Stats"/>
+ <img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=aliahmadcse&theme=tokyonight&hide_border=true" alt="Ali's Github Streak"/> 
+ 
+</p>
 
 
 <h3 align="left">I'm Always open to Valueable Connections</h3>
