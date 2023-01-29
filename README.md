@@ -43,6 +43,6 @@
 <a href="https://twitter.com/aliahmaddev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aliahmaddev" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/aliahmaddev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aliahmaddev" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/11679546" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="11679546" height="30" width="40" /></a>
-<a href="https://hashnode.com/@aliahmaddev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@aliahmaddev" height="30" width="40" /></a>
+<a href="https://aliahmad.codes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@aliahmaddev" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/aliahmadcse" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="aliahmadcse" height="30" width="40" /></a>
 </p>
