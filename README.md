@@ -17,7 +17,7 @@
 
 - 👨‍💻 Check my side Hussle on [github.com/aliahmadcse](github.com/aliahmadcse)
 
-- 📝 Writing on [aliahmad.codes](aliahmad.codes)
+- 📝 Writing on [aliahmad.codes](https://aliahmad.codes)
 
 - 💬 Ask me about **Angular, Spring Boot, Docker**
 
