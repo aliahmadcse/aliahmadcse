@@ -5,7 +5,7 @@
     ❇️ Experienced developing Enterprise level SAAS Applications<br>
     🌟 Favorite Tech: Java, Spring Boot, Go, Typescript, Python ... <br>
     🖇️ LinkedIn: https://www.linkedin.com/in/aliahmaddev/ <br>
-    ✍️ Blog: https://aliahmad.codes
+    ✍️ Socials: https://linktr.ee/aliahmaddev
     
   </samp>
   
